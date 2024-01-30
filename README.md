@@ -1,6 +1,6 @@
 # get-me-to-work
 
-- The user should see a overview of books
+- The user should see an overview of books
 - The user can create a new book with a title and add it to the overview
 
 ### What should be done?
